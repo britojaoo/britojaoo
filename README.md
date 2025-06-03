@@ -10,7 +10,7 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 
 ### 📌 Ashvale - Unreal Game Project  
 > An **independent game project** developed in **Unreal**, combining creative gameplay mechanics and immersive world-building.  
-- **Technologies:** Unreal engine, C++, BluePrints.  
+- **Technologies:** Unreal engine, Blender, C++, BluePrints.  
 - **Key Features:** Retro-insired 3D art on Dark fantasy aesthetic, complex combat system, Story-Driven RPG.
 ---
 ### 🛒 SoleMarket - Web Marketplace for Footwear
