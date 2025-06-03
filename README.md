@@ -13,14 +13,11 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 - **Technologies:** Unreal engine, C++, BluePrints.  
 - **Key Features:** Retro-insired 3D art on Dark fantasy aesthetic, complex combat system, Story-Driven RPG.
 ---
-🛒 SoleMarket - Web Marketplace for Footwear
-A modern web application for buying and selling footwear, designed to provide a seamless marketplace experience.
-
+### 🛒 SoleMarket - Web Marketplace for Footwear
+> A modern web application for buying and selling footwear, designed to provide a seamless marketplace experience.
 - **Technologies:** React, TypeScript, Java Spring Boot, PostgreSQL.
-
 - **Key Features:** Real-time product listings, user authentication, seller dashboards, secure payment integration.
-
-Architecture: Full-stack project with RESTful API and responsive UI using component-based architecture.
+- **Architecture:** Full-stack project with RESTful API and responsive UI using component-based architecture.
 ---
 
 ## 📫 How to reach me:
