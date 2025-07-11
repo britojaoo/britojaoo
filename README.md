@@ -8,12 +8,12 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 
 ## 📂 projects underway here 
 
-### 📌 Ashvale - Unreal Game Project  
+### 🕹️ Ashvale - Unreal Game Project  
 > An **independent game project** developed in **Unreal**, combining creative gameplay mechanics and immersive world-building.  
 - **Technologies:** Unreal engine, Blender, C++, BluePrints.  
 - **Key Features:** Retro-insired 3D art on Dark fantasy aesthetic, complex combat system, Story-Driven RPG.
 ---
-### 🛒 GDDBuilder - Game Design Document Manager
+### 📘 GDDBuilder - Game Design Document Manager
 > A web-based platform to create, manage, and export structured GDDs for game development projects.
 - **Technologies:** React, TypeScript, FastAPI (Python), PostgreSQL, Firebase Auth.
 - **Export Options:** JSON, PDF, DOCX (planned).
