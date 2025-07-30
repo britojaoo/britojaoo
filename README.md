@@ -1,8 +1,8 @@
 #  João Brito
 
-**`Computer / Software Engineer`**
+**`Game / Web / Software Engineer`**
 
-Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate about technology, particularly in game development, software engineering, and problem-solving. I thrive in dynamic environments where I can apply my technical skills and continuously learn new technologies to drive innovation and efficiency.
+Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate about technology, particularly in game development, software / web engineering, and problem-solving. I thrive in dynamic environments where I can apply my technical skills and continuously learn new technologies to drive innovation and efficiency.
 
 ---
 
