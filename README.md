@@ -8,6 +8,12 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 
 ## 📂 projects underway here 
 
+### 🖥️ WebFlux - Company Presentation Websites
+> **WebFlux** is a service dedicated to developing modern and professional presentation websites for companies.  
+- **Focus:** Company identity, service presentation, and clean design. 
+- **Technologies:** React, Vite, Tailwind, Node.js.  
+- **Services:** Landing pages, institutional websites, and custom web presence.  
+---
 ### 📘 GDDBuilder - Game Design Document Manager
 > A web-based platform to create, manage, and export structured GDDs for game development projects.
 - **Technologies:** React + Tailwind, SpringBoot, PostgreSQL, Autenticação Auth, Electron, encapsulamento: Docker em VM Linux.
@@ -20,25 +26,11 @@ Hello, I'm João Victor Santos De Brito, a Computer Engineering. I am passionate
 - **Technologies:** Unreal engine, Blender, C++, BluePrints.  
 - **Key Features:** Retro-insired 3D art on Dark fantasy aesthetic, complex combat system, Story-Driven RPG.
 ---
-### 🍴 Chomp - Food Delivery App (Malta)  
-> A **local food delivery app** specialized in connecting restaurants and customers across Malta.  
-- **Technologies (planned):** Flutter (mobile), Node.js/NestJS (backend), PostgreSQL, Stripe/Revolut (payments), Google Maps API.  
-- **Key Features (MVP):** Restaurant listing, menu browsing, checkout & payments, order tracking, basic admin panel for restaurants.  
-- **Future Roadmap:** Dedicated driver app, loyalty program, multi-language (EN/MT), partnerships with local markets.
----
-### 🖥️ WebFlux - Company Presentation Websites
-> **WebFlux** is a service dedicated to developing modern and professional presentation websites for companies.  
-- **Focus:** Company identity, service presentation, and clean design. 
-- **Technologies:** React, Vite, Tailwind, Node.js.  
-- **Services:** Landing pages, institutional websites, and custom web presence.  
----
-  
 
 ## 📫 How to reach me:
 - 📧 **Email**: contatojoaolanhouse@gmail.com
 - 💼 **LinkedIn**:  www.linkedin.com/in/engcomp-joão-brito
 - 🌐 **Portfolio**: [Coming soon]
-
 
 **Made in Brazil** 🇧🇷
 
