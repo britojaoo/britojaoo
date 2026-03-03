@@ -1,5 +1,6 @@
 <p align="center"> <img src="assets/CB.png" width="100"/> </p>
 
+<!-- Social Media -->
 <p align="center">
   <a href="www.linkedin.com/in/joaovsbrito" target="_blank">
     <img src="assets/in.jfif" width="30"/>
@@ -18,9 +19,12 @@
   </a>
 </p>
 
+<h2></h2>
+
 <h2 align="center"> <b>Hi</b> </h2>
 
-<img src="assets/Disc.gif" width="200" align="right" />
+<!-- About me -->
+<img src="assets/daft.png" width="190" align="right" />
 
 <p align="left" >
   <sub>
@@ -36,11 +40,12 @@
   <b> Systems over shortcuts. <br> 
   <b> Architecture over hype. <br> 
   <b> Building with purpose.  <br> 
- </sub>
+  </sub>
 </p>
 
 <br> 
 
+<!-- Projects -->
 <h2 align="center">  Projects  </h2>
 
 <p align="left">
@@ -48,10 +53,12 @@
 </p>
 
 <p align="left">
-  Reputly is an all-in-one SaaS (Software as a Service) platform designed to   <br>
-  empower businesses to monitor, analyze, and leverage their online reputation <br>
-  in real-time. Through an intuitive dashboard, business owners can transform  <br>
-  raw feedback into actionable insights that drive growth.
+  <sub>
+    Reputly is an all-in-one SaaS (Software as a Service) platform designed to   <br>
+    empower businesses to monitor, analyze, and leverage their online reputation <br>
+    in real-time. Through an intuitive dashboard, business owners can transform  <br>
+    raw feedback into actionable insights that drive growth.
+  </sub>
 </p>
 
 <p align="left">
@@ -66,13 +73,37 @@
 <h1></h1>
 
 <p align="left">
-  --Secretar.ia LOGO
+   <img src="assets/whiteload.gif" width="100" align="center"/>
 </p>
 
 <p align="left">
-  An AI-powered personal assistant designed to streamline administrative tasks and boost productivity.     <br>
-  This project leverages artificial intelligence to automate scheduling, document management, and workflow <br> 
-  organization, acting as a digital right hand for modern professionals.
+  <sub>
+    A web-based platform to create, manage, and export structured <br>
+    GDDs for game development projects.
+  </sub>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<h1></h1>
+
+<p align="left">
+  <img src="assets/whiteload.gif" width="100" align="center"/>
+</p>
+
+<p align="left">
+  <sub>
+    An AI-powered personal assistant designed to streamline administrative tasks and boost productivity.     <br>
+    This project leverages artificial intelligence to automate scheduling, document management, and workflow <br> 
+    organization, acting as a digital right hand for modern professionals.
+  </sub>
 </p>
 
 <p align="left">
@@ -81,22 +112,5 @@
 
 <h1></h1>
 
-<p align="left">
-  --GDDBuilder LOGO
-</p>
-
-<p align="left">
-  A web-based platform to create, manage, and export structured <br>
-  GDDs for game development projects.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
 
