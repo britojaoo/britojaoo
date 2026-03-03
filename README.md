@@ -51,7 +51,7 @@
   </sub>
 </p>
 
-<br> 
+<br> <br> 
 
  <!-- GitStats and Stack -->
  <div align="center">
