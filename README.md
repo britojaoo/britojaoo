@@ -19,10 +19,20 @@
   </a>
 </p>
 
+<div align="center">
+<!-- Followers -->
+<a href="https://github.com/britojaoo?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/britojaoo?style=for-the-badge&label=Followers&color=000000&logo=github" /></a>
+
+<!-- Profile Views -->
+<a href="https://github.com/britojaoo" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=britojaoo&label=Profile%20views&color=000000&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+</div>
+
 <h2 align="center"> <b>Hi</b> </h2>
 
 <!-- About me -->
-<img src="assets/daft.png" width="190" align="right" />
+<img src="assets/bepop.gif" width="230" align="right" />
 
 <p align="left" >
   <sub>
@@ -40,6 +50,26 @@
   <b> Building with purpose.  <br> 
   </sub>
 </p>
+
+<br> 
+
+ <!-- GitStats and Stack -->
+ <div align="center">
+   
+   <p align="center">
+    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+    <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+  
+  <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=britojaoo&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+  
+</div>
 
 <br> 
 
