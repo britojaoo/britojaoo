@@ -20,6 +20,8 @@
 
 <h2 align="center"> <b>Hi</b> </h2>
 
+<img src="assets/Disc.gif" width="200" align="right" />
+
 <p align="left" >
   <sub>
   Technology has always been more than tools to me — it’s a way to <br> 
