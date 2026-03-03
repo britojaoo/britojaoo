@@ -19,8 +19,6 @@
   </a>
 </p>
 
-<h2></h2>
-
 <h2 align="center"> <b>Hi</b> </h2>
 
 <!-- About me -->
