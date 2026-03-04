@@ -69,8 +69,8 @@
      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   </p>
   
-  <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=britojaoo&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+  <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
+    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=britojaoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   
 </div>
 
