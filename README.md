@@ -1,21 +1,21 @@
-<p align="center"> <img src="assets/CB.png" width="100"/> </p>
+<p align="center"> <img src="assets/Disc.gif" width="150"/> </p>
 
 <!-- Social Media -->
 <p align="center">
   <a href="www.linkedin.com/in/joaovsbrito" target="_blank">
-    <img src="assets/in.jfif" width="30"/>
+    <img src="assets/in.jfif" width="40"/>
   </a>
   <a href="https://www.instagram.com/ojaobrito/" target="_blank">
-    <img src="assets/Insta.jfif" width="30"/>
+    <img src="assets/Insta.jfif" width="40"/>
   </a>
   <a href="https://discord.com/users/1111782970819358811" target="_blank">
-    <img src="assets/Discord.jfif" width="30"/>
+    <img src="assets/Discord.jfif" width="40"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561198137001645" target="_blank">
-    <img src="assets/steam.jfif" width="30"/>
+    <img src="assets/steam.jfif" width="40"/>
   </a>
   <a href="https://open.spotify.com/user/joaovictorbrito1?si=9cf46dc9306547a4" target="_blank">
-    <img src="assets/Spotfy.jfif" width="30"/>
+    <img src="assets/Spotfy.jfif" width="40"/>
   </a>
 </p>
 
