@@ -137,5 +137,17 @@
 
 <h1></h1>
 
+<!-- Footer -->
+<br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=britojaoo&bg_color=101214&color=adbac7&line=7d7d7d&point=ffffff&area=true&hide_border=true](https://github.com/ashutosh00710/github-readme-activity-graph)">
+
+<br>
+
+<p align="center">
+  <sub>
+    Focused on creating technology that serves people.<br>
+    Built by Brito.
+  </sub>
+</p>
 
