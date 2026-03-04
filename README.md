@@ -32,7 +32,7 @@
 <h2 align="center"> <b>Hi</b> </h2>
 
 <!-- About me -->
-<img src="assets/bepop.gif" width="260" align="right" />
+<img src="assets/bepop.gif" width="250" align="right" />
 
 <p align="left" >
   Technology has always been more than tools to me — it’s a way to <br> 
