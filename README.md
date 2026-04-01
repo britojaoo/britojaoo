@@ -70,7 +70,6 @@
   </p>
   
   <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
-    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=britojaoo&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   
 </div>
 
