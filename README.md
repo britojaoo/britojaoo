@@ -58,20 +58,10 @@
 
  <!-- GitStats and Stack -->
  <div align="center">
-   
-   <p align="center">
-    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-    <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
   
   <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
   
-</div>
+  </div>
 
 <br> 
 
