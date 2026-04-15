@@ -58,6 +58,7 @@
 
  <!-- GitStats and Stack -->
  <div align="center">
+   
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
@@ -66,8 +67,7 @@
   <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-   <br>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" /><br><br>
   <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
   
   </div>
