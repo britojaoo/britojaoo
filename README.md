@@ -121,7 +121,7 @@
 <h1></h1>
 
 <p align="left">
-  <img src="assets/SecretarIA-logoWHITE.svg" width="100" align="center"/>
+  <img src="assets/SecretarIA-logoWHITE.ico" width="100" align="center"/>
 </p>
 
 <p align="left">
