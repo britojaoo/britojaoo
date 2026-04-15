@@ -126,6 +126,7 @@
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white" />
 </p>
