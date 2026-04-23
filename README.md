@@ -102,28 +102,6 @@
 <h1></h1>
 
 <p align="left">
-   <img src="assets/whiteload.gif" width="100" align="center"/>
-</p>
-
-<p align="left">
-  A web-based platform to create, manage, and export structured <br>
-  GDDs for game development projects.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<h1></h1>
-
-<p align="left">
   <img src="assets/SecretarIA-logoWHITE.svg" width="100" align="center"/>
 </p>
 
