@@ -75,7 +75,7 @@
 <br> 
 
 <!-- Projects -->
-<h2 align="center">  Projects  </h2>
+<h2 align="center">  Self-directed projects  </h2>
 
 <p align="left">
   <img src="assets/ReputlyLogo.svg" width="150" align="center"/>
