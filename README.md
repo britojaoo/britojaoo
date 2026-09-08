@@ -56,27 +56,46 @@
 
 <br>
 
- <!-- GitStats and Stack -->
- <div align="center">
-   
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" /><br><br>
-  <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
-  
-  </div>
+<!-- Tech Stack -->
+<div align="center">
 
-<br> 
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Raspberry%20Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br><br>
+
+<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
+
+</div>
+
 
 <!-- Projects -->
-<h2 align="center">  Self-directed projects — more to come  </h2>
-
+<h2 align="center">  Self-directed projects </h2>
+<p></p>
 <p align="left">
   <img src="assets/ReputlyLogo.svg" width="150" align="center"/>
 </p>
@@ -88,40 +107,29 @@
   raw feedback into actionable insights that drive growth.
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
 <h1></h1>
 
 <p align="left">
-  <img src="assets/SecretarIA-logoWHITE.svg" width="100" align="center"/>
+  <img src="assets/OpenBrazilLogo.svg" width="50" align="center"/> 
+  <img src="assets/OpenBrazilWriteLogo.svg" width="100" align="center"/>
 </p>
 
 <p align="left">
-  An AI-powered personal assistant designed to streamline administrative tasks and boost productivity.     <br>
-  This project leverages artificial intelligence to automate scheduling, document management, and workflow <br> 
-  organization, acting as a digital right hand for modern professionals.
+An AI-powered public data platform designed to make Brazilian information accessible, clear, and useful.
+OpenBrazil brings together open data from trusted public sources and uses artificial intelligence to analyze, interpret, and transform complex datasets into meaningful insights for everyone.
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
 <h1></h1>
 
@@ -133,7 +141,9 @@
 <p align="center">
   <sub>
     Focused on creating technology that serves people.<br>
-    Built by Brito.
+    Always more to come (AMTC®)<br>
+    Built by Brito.<br>
+    🇧🇷
   </sub>
 </p>
 
