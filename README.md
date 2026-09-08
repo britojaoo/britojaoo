@@ -75,7 +75,7 @@
 <br> 
 
 <!-- Projects -->
-<h2 align="center">  Projects  </h2>
+<h2 align="center">  Self-directed projects — more to come  </h2>
 
 <p align="left">
   <img src="assets/ReputlyLogo.svg" width="150" align="center"/>
@@ -127,8 +127,6 @@
 
 <!-- Footer -->
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=britojaoo&bg_color=101214&color=adbac7&line=7d7d7d&point=ffffff&area=true&hide_border=true](https://github.com/ashutosh00710/github-readme-activity-graph)">
 
 <br>
 
