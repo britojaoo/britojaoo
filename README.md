@@ -115,24 +115,6 @@
 
 <h1></h1>
 
-<p align="left">
-  <img src="assets/OpenBrazilLogo.svg" width="50" align="center"/> 
-  <img src="assets/OpenBrazilWriteLogo.svg" width="100" align="center"/>
-</p>
-
-<p align="left">
-An AI-powered public data platform designed to make Brazilian information accessible, clear, and useful.
-OpenBrazil brings together open data from trusted public sources and uses artificial intelligence to analyze, interpret, and transform complex datasets into meaningful insights for everyone.
-</p>
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-
-<h1></h1>
-
 <!-- Footer -->
 <br>
 
