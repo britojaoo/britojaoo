@@ -96,24 +96,10 @@
 <!-- Projects -->
 <h2 align="center">  Self-directed projects </h2>
 <p></p>
-<p align="left">
-  <img src="assets/ReputlyLogo.svg" width="150" align="center"/>
-</p>
 
 <p align="left">
-  Reputly is an all-in-one SaaS (Software as a Service) platform designed to   <br>
-  empower businesses to monitor, analyze, and leverage their online reputation <br>
-  in real-time. Through an intuitive dashboard, business owners can transform  <br>
-  raw feedback into actionable insights that drive growth.
+  Loading...
 </p>
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-
-<h1></h1>
 
 <!-- Footer -->
 <br>
