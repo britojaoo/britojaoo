@@ -88,7 +88,7 @@
 
 <br><br>
 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=britojaoo&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
+
 
 </div>
 
