@@ -88,23 +88,32 @@
 
 <br><br>
 
-
-
 </div>
 
 
 <!-- Projects -->
-<h2 align="center">  Self-directed projects </h2>
-<p></p>
+<h2 align="center">Projects</h2>
 
-<p align="left">
-  Loading...
-</p>
+<table width="100%">
+  <tr>
+    <td width="90" align="center" valign="middle">
+  <img src="assets/ReputlyStarLogo.svg" width="70" />
+    </td>
+    <td valign="middle">
+      <h3>Reputly</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Reputly is a reputation management platform
+      that helps businesses manage customer reviews,
+      strengthen their online presence, and build
+      lasting relationships with their customers.
+    </td>
+  </tr>
+</table>
 
-<!-- Footer -->
-<br>
-
-<br>
+<hr>
 
 <p align="center">
   <sub>
